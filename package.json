@@ -14,7 +14,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
-    "dev": "nodemon src/index.ts",
+    "dev": "nodemon src/ex01/index.ts",
     "test": "jest"
   },
   "keywords": [],
